@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+
+dependencies:
+
+  - python=3.9.13
+  - pip=22.1.2
+  
+  - pip:
+      - rpaframework==22.0.0
+      - robotframework-browser==12.3.0 
+      - webdrivermanager==0.10.0
+      - robotframework-requests==0.9.4
+
+rccPostInstall:
+  - webdrivermanager chrome --linkpath ./Bin/
