@@ -15,3 +15,7 @@ User opens HomePage site
 
 User click on "${Website_Name}" link
     Click Link    Link:${Website_Name}
+
+Click "${Website}" link on HomePage Test
+    Given User opens HomePage site
+    When User click on "${Website}" link
