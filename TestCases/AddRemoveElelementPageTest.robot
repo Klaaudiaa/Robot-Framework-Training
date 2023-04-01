@@ -1,7 +1,7 @@
 *** Settings ***
-Resource            ../Resources/BaseKeywords.robot
-Resource            ../Resources/HomePageKeywords.robot
-Resource            ../Resources/AddRemoveElementsPageKeywords.robot
+Resource            ../Resources/Pages/BaseKeywords.robot
+Resource            ../Resources/Pages/HomePageKeywords.robot
+Resource            ../Resources/Pages/AddRemoveElementsPageKeywords.robot
 Variables           ../Libraries/AddRemovePage.py
 
 Suite Setup         Open my Browser    https://the-internet.herokuapp.com    Chrome

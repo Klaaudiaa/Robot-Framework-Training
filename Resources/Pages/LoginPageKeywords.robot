@@ -3,7 +3,7 @@ Documentation       Keywords to log in and test form authentication
 
 Library             SeleniumLibrary
 Library             OperatingSystem
-Variables           ../Libraries/LoginPage.py
+Variables           ../../Libraries/LoginPage.py
 
 
 *** Keywords ***

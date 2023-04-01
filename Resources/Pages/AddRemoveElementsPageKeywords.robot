@@ -3,7 +3,7 @@ Documentation       Keywords that Add and remove elements with button
 
 Library             SeleniumLibrary
 Library             OperatingSystem
-Variables           ..\Libraries\AddRemovePage.py
+Variables           ../../Libraries/AddRemovePage.py
 
 
 *** Keywords ***
