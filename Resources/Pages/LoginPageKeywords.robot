@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Keywords to log in and test form authentication
+Documentation       Keywords to log in, log out and verify form authentication
 
 Library             SeleniumLibrary
 Library             OperatingSystem
