@@ -8,3 +8,6 @@ Automated Tests written in Robot Framework with SeleniumLibrary, performed on ht
   <li>
 <a href="https://the-internet.herokuapp.com/login" rel="nofollow">Form Authentication</a>
   </li>
+  <li>
+<a href="https://the-internet.herokuapp.com/checkboxes" rel="nofollow">Checkboxes</a>
+  </li>
