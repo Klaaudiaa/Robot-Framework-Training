@@ -1,6 +1,4 @@
 *** Settings ***
-Resource        ../../Resources/Common_Keywords.robot
-Resource        ../../Resources/Pages/HomePageKeywords.robot
 Resource        ../../Resources/Pages/AddRemoveElementsPageKeywords.robot
 Variables       ../../Libraries/Locators/AddRemovePage.py
 

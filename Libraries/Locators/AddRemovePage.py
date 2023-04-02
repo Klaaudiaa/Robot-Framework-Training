@@ -1,4 +1,4 @@
-#Add/Remove Page elements
+#Add/Remove Page locators and URL
 AddRemovePage = {"URL":   "https://the-internet.herokuapp.com/add_remove_elements/",
                 "page_header":    "css:div h3",
                 "add_button":     "css:div button",
