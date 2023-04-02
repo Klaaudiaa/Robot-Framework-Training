@@ -8,13 +8,11 @@ Force Tags          home_page
 
 
 *** Test Cases ***    ${Website}
-Clicking "A/B Testing" link    A/B Testing
-Clicking "Basic Auth" link    Basic Auth
+Clicking "Add/Remove Elements" link    Add/Remove Elements
 Clicking "Broken Images" link    Broken Images
 Clicking "Challenging DOM" link    Challenging DOM
 Clicking "Checkboxes" link    Checkboxes
 Clicking "Context Menu" link    Context Menu
-Clicking "Digest Authentication" link    Digest Authentication
 Clicking "Disappearing Elements" link    Disappearing Elements
 Clicking "Drag and Drop" link    Drag and Drop
 Clicking "Dropdown" link    Dropdown

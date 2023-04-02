@@ -9,6 +9,7 @@ Force Tags      home_page
 Clicking "A/B Testing" link
     Given User opens HomePage site
     When User click on "A/B Testing" link
+    Then User is redirected to "A/B Testing" Page
 
 Clicking "Basic Auth" link
     Given User opens HomePage site
